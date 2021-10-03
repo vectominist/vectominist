@@ -4,7 +4,7 @@ I'm a research assistant at the National Taiwan University (NTU) <a href="https:
 I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
 
 💡 I'm interested in machine learning and speech processing.  
-🔍 I'm currently working on automatic speech recognition (ASR) and self-supervised speech representation learning.  
+🔍 I'm currently working on automatic speech recognition (ASR) and self-supervised learning.  
 🎓 I'm seeking opportunities to study for a Ph.D. starting from 2022 fall!
 
 <!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=radical)](https://github.com/vectominist/github-readme-stats) -->
