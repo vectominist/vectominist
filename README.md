@@ -1,10 +1,10 @@
 ### Hi! I'm Heng-Jui Chang! 👋
 
-I'm a research assistant at the National Taiwan University (NTU) <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Speech Processing and Machine Learning Lab</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
+I'm a research assistant at the National Taiwan University (NTU) Speech Processing and Machine Learning Lab supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a> and Prof. <a href="https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a>.
 I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
 
 💡 I'm interested in machine learning and speech processing.  
-🔍 I'm currently working on automatic speech recognition (ASR) and self-supervised learning.  
+🔍 I'm currently working on self-supervised learning and multimodal representation learning.  
 🎓 I'm seeking opportunities to study for a Ph.D. starting from 2022 fall!
 
 <!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=radical)](https://github.com/vectominist/github-readme-stats) -->
