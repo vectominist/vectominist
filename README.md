@@ -5,7 +5,7 @@ I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
 
 💡 I'm interested in machine learning and speech processing.  
 🔍 I'm currently working on self-supervised learning and multimodal representation learning.  
-🎓 I'm seeking opportunities to study for a Ph.D. starting from 2022 fall!
+🎓 I'll start doing a Ph.D. at <a href="https://www.eecs.mit.edu/" target="_blank" rel="noopener">MIT EECS</a> under <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. Jim Glass's</a> supervision this fall!
 
 <!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=radical)](https://github.com/vectominist/github-readme-stats) -->
 
