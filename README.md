@@ -1,13 +1,13 @@
 ### Hi! I'm Heng-Jui Chang! 👋
 
 I'm a research assistant at the National Taiwan University (NTU) Speech Processing and Machine Learning Lab supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a> and Prof. <a href="https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a>.
-I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
 
 💡 I'm interested in machine learning and speech processing.  
 🔍 I'm currently working on self-supervised learning and multimodal representation learning.  
-🎓 I'll start doing a Ph.D. at <a href="https://www.eecs.mit.edu/" target="_blank" rel="noopener">MIT EECS</a> under <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. Jim Glass's</a> supervision this fall!
+🎓 I'll start doing a Ph.D. at <a href="https://www.eecs.mit.edu/" target="_blank" rel="noopener">MIT EECS</a> under <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. Jim Glass's</a> supervision this fall!  
+📖 For more information, please take a look at my personal website: <a href="https://people.csail.mit.edu/hengjui/" target="_blank" rel="noopener">people.csail.mit.edu/hengjui/</a>
 
-<!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=radical)](https://github.com/vectominist/github-readme-stats) -->
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=vue)](https://github.com/vectominist/github-readme-stats)
 
 <!--
 **vectominist/vectominist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
