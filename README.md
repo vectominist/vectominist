@@ -1,10 +1,16 @@
 ### Hi! I'm Heng-Jui Chang! 👋
 
-I'm a research assistant at the National Taiwan University (NTU) Speech Processing and Machine Learning Lab supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a> and Prof. <a href="https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a>.
+I'm a first-year EECS Ph.D. student at <a href="https://www.csail.mit.edu/" target="_blank" rel="noopener">MIT CSAIL</a> 
+in the <a href="http://groups.csail.mit.edu/sls/" target="_blank" rel="noopener">Spoken Language Systems Group</a>
+advised by Dr. <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Jim Glass</a>.
+                
+I graduated from <a href="https://www.ntu.edu.tw/" target="_blank" rel="noopener">National Taiwan University</a> 
+in 2021 with my B.S. in Electrical Engineering, and I was supervised by
+Prof. <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a>
+and Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
 
 💡 I'm interested in machine learning and speech processing.  
 🔍 I'm currently working on self-supervised learning and multimodal representation learning.  
-🎓 I'll start doing a Ph.D. at <a href="https://www.eecs.mit.edu/" target="_blank" rel="noopener">MIT EECS</a> under <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. Jim Glass's</a> supervision this fall!  
 📖 For more information, please take a look at my personal website: <a href="https://people.csail.mit.edu/hengjui/" target="_blank" rel="noopener">people.csail.mit.edu/hengjui/</a>
 
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=vue)](https://github.com/vectominist/github-readme-stats)
