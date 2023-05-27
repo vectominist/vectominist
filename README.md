@@ -10,7 +10,7 @@
 🔍 I'm currently working on self-supervised learning and multimodal representation learning.  
 📖 Personal website: <a href="https://people.csail.mit.edu/hengjui/" target="_blank" rel="noopener">people.csail.mit.edu/hengjui/</a>
 
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=vue)](https://github.com/vectominist/github-readme-stats)
+<!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=vue)](https://github.com/vectominist/github-readme-stats) -->
 
 <!--
 **vectominist/vectominist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
