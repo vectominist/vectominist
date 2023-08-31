@@ -1,6 +1,6 @@
 ### Hi! I'm Heng-Jui! 👋
 
-🧑‍🎓 I'm a first-year Computer Science Ph.D. student at <a href="https://www.csail.mit.edu/" target="_blank" rel="noopener">MIT CSAIL</a> 
+🧑‍🎓 I'm a second-year Computer Science Ph.D. student at <a href="https://www.csail.mit.edu/" target="_blank" rel="noopener">MIT CSAIL</a> 
                 in the <a href="http://groups.csail.mit.edu/sls/" target="_blank" rel="noopener">Spoken Language Systems Group</a>
                 advised by <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. Jim Glass</a>.  
 🎓 I graduated from <a href="https://www.ntu.edu.tw/" target="_blank" rel="noopener">National Taiwan University</a> 
