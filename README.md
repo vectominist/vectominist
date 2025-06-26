@@ -3,8 +3,6 @@
 🧑‍🎓 I'm a Ph.D. candidate at <a href="https://www.csail.mit.edu/" target="_blank" rel="noopener">MIT CSAIL</a> 
                 in the <a href="http://groups.csail.mit.edu/sls/" target="_blank" rel="noopener">Spoken Language Systems Group</a>
                 advised by <a href="https://people.csail.mit.edu/jrg/" target="_blank" rel="noopener">Dr. James Glass</a>.  
-🎓 S.M. EECS at <a href="https://www.mit.edu/" target="_blank" rel="noopener">MIT</a>  
-🎓 B.S. EE at <a href="https://www.ntu.edu.tw/" target="_blank" rel="noopener">National Taiwan University</a>  
 📖 Personal website: <a href="https://people.csail.mit.edu/hengjui/" target="_blank" rel="noopener">people.csail.mit.edu/hengjui/</a>
 
 <!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=vectominist&show_icons=true&theme=vue)](https://github.com/vectominist/github-readme-stats) -->
